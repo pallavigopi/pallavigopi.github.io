@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pallavi V G</title>
+    <link>/</link>
+    <description>Recent content on Pallavi V G</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$ whoami</title>
+      <link>/about/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>Hello world, I’m Pallavi 👋🏼!&#xA;I write code, lift weights, and never say no to a spontaneous adventure 👩🏻‍💻💪🏼⛰️.&#xA;With over 4 years of experience in backend development, I love building things that work smoothly and geeking out over how to make systems even better. When I’m not in front of a screen, I’m either smashing shuttlecocks 🏸, hitting the gym, or chasing my wanderlust wherever it takes me.&#xA;Cold brew in hand ☕, gym bag in the other—I’m all about balance, whether it’s life or code!</description>
+    </item>
+    <item>
+      <title>Contact me</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>/contact/</guid>
+      <description>I would be available on LinkedIn or Telegram. Best would be ping me there for relevant things, please don&amp;rsquo;t spam me.&#xA;For any formal correspondence, Email: pallavivg98@gmail.com</description>
+    </item>
+  </channel>
+</rss>
